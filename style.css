@@ -1,0 +1,66 @@
+h1 {
+    font-family:cursive;
+    text-align: center;
+    font-size: 65px;
+  }
+  img {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  p {
+    font-size: 40px;
+    color: Red;
+    font-family:cursive;
+  }
+  .l1 {
+    width: 313px;
+  }
+  p1 {
+    font-family:cursive;
+    text-wrap: wrap-reverse;
+    color: red;
+  }
+  p2 {
+    color: blue;
+    font-size: 30px;
+    font-family:cursive;
+  }
+  .leko {
+    width: 50%;
+  }
+  body {
+    background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+    background-image: url(https://wallpapercave.com/wp/L0MvqKz.jpg);
+  }
+  .lek {
+    margin-left: 835px;
+  }
+  p3 {
+    font-family:cursive;
+  }
+  .leko1 {
+    width: 400px
+  }
+  p4 {
+    font-family:cursive;
+  }
+  p5 {
+    font-family:cursive;
+    font-size: 45px;
+    color: green;
+  }
+  p6 {
+    font-family:cursive;
+  }
+  .lol {
+    width: 716px
+  }
+  p7 {
+    font-family:cursive;
+    text-wrap: wrap-reverse;
+    color: brown;
+    font-size: 30px;
+  }
